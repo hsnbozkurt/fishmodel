@@ -38,3 +38,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - Dataset provided by [Kaggle](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
 - Thanks to the contributors of TensorFlow, Keras, and scikit-learn.
+
+[View This Model on Kaggle](https://www.kaggle.com/code/hsnbozkurt/fishmodel/)
